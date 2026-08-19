@@ -1,2 +1,4 @@
 # PiPhoneOS
-#do not try yet this is in betas
+#! this is in betas !
+#supported OS for extract
+Windows 10 - 11
